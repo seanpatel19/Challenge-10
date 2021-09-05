@@ -54,8 +54,7 @@ python
 
 Please see the following images of the code and resulting graphs 
 
-![alt text for screen readers](/Images/K value code.jpg
- "Text to show on mouseover")Images/K value code.jpg
+![K code](https://github.com/seanpatel19/Challenge-10/blob/7964cfe6641e6abbcdaeff21a49dd9b33db752dc/Images/K%20value%20code.jpg)
 
 Images/elbow curve challenge 10.jpg
 
