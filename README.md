@@ -53,7 +53,11 @@ python
 ## Examples
 
 Please see the following images of the code and resulting graphs 
+https://github.com/seanpatel19/Challenge-10/blob/main/Images/K%20value%20code.jpg
 
+https://github.com/seanpatel19/Challenge-10/blob/main/Images/elbow%20curve%20challenge%2010.jpg
+
+https://github.com/seanpatel19/Challenge-10/blob/main/Images/final%20clusters.jpg
 ---
 
 ## Usage
