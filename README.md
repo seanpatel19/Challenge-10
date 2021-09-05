@@ -56,9 +56,9 @@ Please see the following images of the code and resulting graphs
 
 ![K code](https://github.com/seanpatel19/Challenge-10/blob/7964cfe6641e6abbcdaeff21a49dd9b33db752dc/Images/K%20value%20code.jpg)
 
-Images/elbow curve challenge 10.jpg
+![elbow curve](https://github.com/seanpatel19/Challenge-10/blob/91e7edb00b2aec3a6c4c6bb698a1ab60f086a52d/Images/elbow%20curve%20challenge%2010.jpg)
 
-Images/final clusters.jpg
+![cluster comparison](https://github.com/seanpatel19/Challenge-10/blob/91e7edb00b2aec3a6c4c6bb698a1ab60f086a52d/Images/final%20clusters.jpg)
 ---
 
 ## Usage
