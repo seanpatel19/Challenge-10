@@ -53,7 +53,8 @@ python
 ## Examples
 
 Please see the following images of the code and resulting graphs 
-Images/K value code.jpg
+![alt text for screen readers](/path/Images/K value code.jpg
+ "Text to show on mouseover")Images/K value code.jpg
 
 Images/elbow curve challenge 10.jpg
 
